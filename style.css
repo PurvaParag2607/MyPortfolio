@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.h1{
+    font-family: fantasy;
+    font-size: 38px;
+    text-align: center;
+}
+
+.h2{
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+}
+
+img:hover
+{
+    transform : scale(0.9);
+    
+}
